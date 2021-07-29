@@ -50,7 +50,7 @@ async def start(bot, update):
         InlineKeyboardButton('Developers', url='https://t.me/teamkeralamovie'),
         InlineKeyboardButton('Source Code 🧾', url ='https://github.com/Pwlysadanam/AutoFilterBotV1')
     ],[
-        InlineKeyboardButton('Support 🛠', url='https://t.me/CrazyBotszGrp')
+        InlineKeyboardButton('Support 🛠', url='https://t.me/joinchat/JyPMCYXDHlk1NjZl')
     ],[
         InlineKeyboardButton('Help ⚙', callback_data="help")
     ]]
