@@ -431,10 +431,9 @@ async def callback_data(bot, update: CallbackQuery):
             InlineKeyboardButton('My Dev 👨‍🔬', url='https://t.me/CrazyBotsz'),
             InlineKeyboardButton('Source Code 🧾', url ='https://github.com/CrazyBotsz/Adv-Auto-Filter-Bot-V2')
         ],[
-            InlineKeyboardButton('Support 🛠', url='https://t.me/CrazyBotszGrp')
+            InlineKeyboardButton('Support 🛠', url='https://t.me/joinchat/JyPMCYXDHlk1NjZl')
         ],[
-            InlineKeyboardButton('Help ⚙', callback_data="help")
-        ]]
+            
     
         reply_markup = InlineKeyboardMarkup(buttons)
         
