@@ -9,8 +9,6 @@ class Translation(object):
 
 You Can't Add me to Your Group... 🤨
 
-Just Add Me To Your Group And Channel And Connect Them And See My Pevers 🔥🔥😝
-
 For More Details Click Help Button Below..
 https://t.me/joinchat/JyPMCYXDHlk1NjZl
 </i>"""    
@@ -18,10 +16,6 @@ https://t.me/joinchat/JyPMCYXDHlk1NjZl
     HELP_TEXT = """
 <b><i><u>How To Use Me!?</u></i></b>
 
-<i>
--> Add Me To Any Group And Make Me Admin
--> Add Me To Your Desired Channel
-</i>
 
 <b>Bot Commands (Works Only In Groups) :</b>
 
