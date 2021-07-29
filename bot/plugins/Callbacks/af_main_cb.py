@@ -433,7 +433,8 @@ async def callback_data(bot, update: CallbackQuery):
         ],[
             InlineKeyboardButton('Support 🛠', url='https://t.me/joinchat/JyPMCYXDHlk1NjZl')
         ],[
-            
+            InlineKeyboardButton('Help ⚙', callback_data="help")
+        ]]
     
         reply_markup = InlineKeyboardMarkup(buttons)
         
